@@ -1,0 +1,100 @@
+Carnegie Mellon University 
+Massachusetts Institute of Technology
+Stanford University
+University of California-Berkeley
+University of Illinois-Urbana-Champaign
+Cornell University
+University of Washington
+Princeton University
+Georgia Institute of Technology
+University of Texas-Austin
+California Institute of Technology
+University of Wisconsin-Madison
+University of California-Los Angeles
+University of Michigan-Ann Arbor
+Columbia University
+University of California-San Diego
+University of Maryland-College Park
+Havard University
+University of Pennsylvania
+Brown University
+Purdue University-West Lafayette
+Rice University
+University of Southern California
+Yale University
+Duke University
+University of Massachusetts-Amherst
+University of North Carolina-Chapel Hill  
+Johns Hopkins University
+New York University
+Pennsylvania State University-University Park  
+UC Irvine
+University of Minnesota-Twin Cities  
+University of Virginia  
+Northwestern University  
+Ohio State University  
+Rutgers, The State University of New Jersey-New Brunswick  
+UC Davis
+UC Santa Barbara  
+University of Chicago  
+Dartmouth College  
+Stony Brook University-SUNY
+Texas A&M University-College Station  
+University of Arizona  
+University of Colorado-Boulder
+University of Utah
+Virginia Tech  
+Washington University in St.Louis
+Arizona State University  
+Boston University  
+North Carolina State University
+University of Florida
+Indiana University-Bloomington 
+Rensselaer Polytechnic Institute 
+University of Pittsburgh
+University of Rochester
+Michigan State University
+University of California-Riverside 
+University of California-Santa Cruz 
+Vanderbilt University
+Northeastern University
+University of Illinois-Chicago
+University of Notre Dame 
+Iowa State University
+University at Buffalo-SUNY
+University of Iowa 
+University of Oregon
+George Mason University
+Oregon State University 
+Syracuse University 
+Case Western Reserve University
+College of William and Mary 
+Colorado State University
+Naval Postgraduate School
+New York University 
+Tufts University  
+University of Delaware
+University of Maryland-Baltimore County
+University of Nebraska-Lincoln
+University of Tennessee-Knoxville
+University of Texas-Dallas
+Washington State University
+Brandeis University
+Clemson University
+CUNY Graduate School and University Center
+Florida State University
+George Washington University
+University of Connecticut 
+University of Kansas
+University of New Mexico
+Auburn University
+Brigham Young University
+Drexel University
+Kansas State University
+New Jersey Institute of Technology
+Oregon Health and Science University
+University of Central Florida
+University of Georgia
+University of Kentucky
+University of Texas-Arlington
+Worcester Polytechnic Institute

@@ -1,0 +1,100 @@
+Carnegie Mellon University,CMU,卡耐基梅隆
+Massachusetts Institute of Technology,MIT,麻省理工
+Stanford University,斯坦福大学
+University of California-Berkeley,UCB,加州大学|伯克利
+University of Illinois-Urbana-Champaign,UIUC,伊利诺伊大学|香槟
+Cornell University,康奈尔大学
+University of Washington,华盛顿大学
+Princeton University,普林斯顿大学
+Georgia Institute of Technology,佐治亚理工
+University of Texas-Austin,UT Austin,德州大学|奥斯丁
+California Institute of Technology,Caltech,加州理工
+University of Wisconsin-Madison,WISC,威斯康星大学|麦迪逊分校
+University of California-Los Angeles,UCLA,加州大学|洛杉矶分校
+University of Michigan-Ann Arbor,University of Michigan,密歇根大学
+Columbia University,哥伦比亚大学,哥大
+University of California-San Diego,UCSD,加州大学|圣地亚哥分校
+University of Maryland-College Park,马里兰大学|帕克分校
+Harvard University,哈佛大学
+University of Pennsylvania,宾夕法尼亚大学,宾大
+Brown University,布朗大学
+Purdue University-West Lafayette,普渡大学|拉法叶
+Rice University,莱斯大学
+University of Southern California,USC,南加州大学
+Yale University,耶鲁大学
+Duke University,杜克大学
+University of Massachusetts-Amherst,马萨诸塞大学|阿默斯特分校
+University of North Carolina-Chapel Hill,北卡|教堂山分校
+Johns Hopkins University,JHU,霍普金斯大学
+New York University,纽约大学
+Pennsylvania State University,宾夕法尼亚州立大学,宾州州立大学
+UC Irvine,University of California Irvine,加州大学|欧文分校
+University of Minnesota-Twin Cities,明尼苏达大学|双城 
+University of Virginia,弗吉尼亚大学
+Northwestern University,西北大学  
+Ohio State University,俄亥俄州立大学
+Rutgers The State University of New Jersey-New Brunswick,罗格斯大学|新伯朗士威
+UC Davis,University of California Davis,加州大学|戴维斯分校
+UC Santa Barbara,UCSB,加州大学|芭芭拉分校
+University of Chicago,芝加哥大学
+Dartmouth College,达特茅斯学院  
+Stony Brook University,纽约州立大学|石溪分校
+Texas A&M University,德州农工大学
+University of Arizona,亚利桑那大学
+University of Colorado-Boulder,CU Boulder,科罗拉多大学|博尔德分校
+University of Utah,犹他大学
+Virginia Tech,弗吉尼亚理工  
+Washington University in St.Louis,WUSTL,圣路易斯|华盛顿大学
+Arizona State University,ASU,亚利桑那州立大学
+Boston University,波士顿大学  
+North Carolina State University,NCSU,北卡|州立大学
+University of Florida,弗罗里达大学
+Indiana University-Bloomington,IUB,印第安纳|伯明顿分校
+Rensselaer Polytechnic Institute,伦斯勒理工 
+University of Pittsburgh,匹兹堡大学
+University of Rochester,罗切斯特大学
+Michigan State University,MSU,密歇根州立大学
+University of California-Riverside,UCR,加州大学|河滨
+University of California-Santa Cruz,UCSC,加州大学|圣克鲁兹 
+Vanderbilt University,范德堡大学
+Northeastern University,东北大学
+University of Illinois-Chicago,伊利诺伊大学|芝加哥
+University of Notre Dame,圣母大学 
+Iowa State University,爱荷华州立大学
+University at Buffalo,纽约州立大学|布法罗
+University of Iowa,爱荷华大学 
+University of Oregon,俄勒冈大学
+George Mason University,乔治梅森大学
+Oregon State University,俄勒冈州立大学
+Syracuse University,雪城大学 
+Case Western Reserve University,凯斯西储大学
+College of William and Mary,威廉玛丽学院
+Colorado State University,科罗拉多州立大学
+Naval Postgraduate School,海军研究院
+New York University,纽约大学
+Tufts University,塔夫茨大学  
+University of Delaware,特拉华大学
+University of Maryland-Baltimore County,马里兰大学|巴尔的摩
+University of Nebraska-Lincoln,内布拉加大学|林肯
+University of Tennessee-Knoxville,田纳西大学|诺克斯维尔
+University of Texas-Dallas,德州大学|达拉斯
+Washington State University,华盛顿州立大学
+Brandeis University,布兰迪斯大学
+Clemson University,克莱姆森大学
+CUNY Graduate School and University Center,纽约城市大学
+Florida State University,弗罗里达州立大学
+George Washington University,乔治华盛顿大学
+University of Connecticut,康涅狄格大学
+University of Kansas,堪萨斯大学
+University of New Mexico,新墨西哥大学
+Auburn University,奥本大学
+Brigham Young University,BYU,杨百翰大学
+Drexel University,德雷塞尔大学
+Kansas State University,堪萨斯州立大学
+New Jersey Institute of Technology,新泽西理工
+Oregon Health and Science University,俄勒冈|健康科学
+University of Central Florida,中佛罗里达大学
+University of Georgia,佐治亚大学
+University of Kentucky,肯塔基大学
+University of Texas-Arlington,德州大学|阿灵顿
+Worcester Polytechnic Institute,伍斯特理工
