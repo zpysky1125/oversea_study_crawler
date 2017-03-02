@@ -281,8 +281,8 @@ class zhihu_professor_spider(CrawlSpider):
                             headers=header,
                             formdata={
                                 '_xsrf': self.xsrf,
-                                'email': 'zpysky1125@sina.com',
-                                'password': 'zpysky1125~@#',
+                                'email': 'xxx@yy.com',
+                                'password': 'zzzz',
                                 'remember_me': 'true'},
                             callback=self.after_login,
                             dont_filter=True
