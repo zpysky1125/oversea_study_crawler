@@ -282,7 +282,7 @@ class zhihu_professor_spider(CrawlSpider):
                             formdata={
                                 '_xsrf': self.xsrf,
                                 'email': 'xxx@yy.com',
-                                'password': 'zzzz',
+                                'password': 'zzz',
                                 'remember_me': 'true'},
                             callback=self.after_login,
                             dont_filter=True
